@@ -8,7 +8,9 @@ public class Array {
 	}
 public static void main(String[] args) {
 	System.out.println("Git bash");
-
+	System.out.println("1st line");
+	System.out.println("new update");
+	
 	/*
 	//Remove duplicate element
 	int a[]= {20,30,40,20,10,40,100,10};
