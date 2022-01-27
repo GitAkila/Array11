@@ -3,6 +3,7 @@ import java.util.*;
 public class Array {
 public static void main(String[] args) {
 	System.out.println("Git bash");
+	System.out.println("1st line");
 	
 	/*
 	//Remove duplicate element
