@@ -1,9 +1,14 @@
 package com.array;
 import java.util.*;
 public class Array {
+	
+	private void m1() {
+	System.out.println("Ak");
+
+	}
 public static void main(String[] args) {
 	System.out.println("Git bash");
-	
+
 	/*
 	//Remove duplicate element
 	int a[]= {20,30,40,20,10,40,100,10};
