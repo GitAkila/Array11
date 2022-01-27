@@ -2,6 +2,9 @@ package com.array;
 import java.util.*;
 public class Array {
 public static void main(String[] args) {
+	System.out.println("Git bash");
+	
+	/*
 	//Remove duplicate element
 	int a[]= {20,30,40,20,10,40,100,10};
 	int n = a.length;
